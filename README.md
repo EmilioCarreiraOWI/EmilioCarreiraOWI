@@ -1,4 +1,6 @@
-# ![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub)  
+# ![Group 260](https://github.com/user-attachments/assets/387e0c52-cb95-4971-b40f-ac2bb01f488a)
+
+
 *Crafting innovative digital experiences with code and creativity!*
 
 ---
@@ -22,23 +24,36 @@ I’m a **third-year student** at **Open Window**, specializing in **Website Dev
 ---
 
 ## 🌟 Featured Projects  
-### 📱 **Brevio App**  
-![AI Logo](https://via.placeholder.com/50x50)  
-A personal project where I integrated AI services to deliver intelligent responses, showcasing the dynamic power of AI-driven functionality.  
-- 🛠️ *React, Firebase, AI APIs*  
-- 📸 *Portfolio shots available!*  
 
-### 🧳 **My Destination**  
-![Travel Logo](https://via.placeholder.com/50x50)  
-A travel-planning app focused on delivering personalized exploration experiences.  
-- 🛠️ *React, Google Maps API*  
-- 📸 *Portfolio shots available!*  
+### 📄 **NatureNook**
+NatureNook is designed to simplify and improve the outdoor experience for camping and hiking enthusiasts by providing an intuitive inventory management system. It tracks and organizes gear across multiple warehouse locations, offering real-time updates and tailored packages for users and their families. Key features include secure user authentication with OTP verification, inventory management with quantity updates, a crafting system for creating new items, and a warehouse dashboard for monitoring inventory levels. The app is built with Angular for the frontend, an Express server for the backend, and PostgreSQL for efficient data management, with Twilio ensuring secure authentication. 
 
-### 📄 **PDF Scanner App**  
-![Scanner Logo](https://via.placeholder.com/50x50)  
-A mobile app leveraging AI for text extraction and document summarization.  
-- 🛠️ *React Native, Firebase, AI APIs*  
-- 📸 *Portfolio shots available!*  
+- 📸 *GitHub Repository Link:* https://github.com/EConradie/DV300_Term1_Project.git
+
+![NatureNook-Banner](https://github.com/user-attachments/assets/28f66705-7918-42c9-8b58-8f9e7b7d61f9)
+
+###  **My Destination**  
+MyDestination is a travel companion app built with Expo, designed to help users explore and plan their travels effortlessly. It offers features like destination search, personalized travel recommendations, the ability to save favorite destinations, and a platform for viewing and posting reviews. The app aims to enhance the travel experience by providing detailed information and tailored suggestions to users.
+
+- 📸 *GitHub Repository Link:* https://github.com/EmilioCarreiraOWI/Emilio_Carreira_221350_DV300_Term2_project.git
+
+![MyDestinatiom-Banner](https://github.com/user-attachments/assets/83a84da5-eddf-49c4-b691-05b66744ea21)
+
+
+### 📄 **Tradera** 
+Tradera is a banking app that allows users to manage their accounts, buy and sell "Eons" (in-house currency), and view past transactions. Admin users have the authority to freeze or delete accounts for misbehavior. The app is built using React for the frontend, Electron for the desktop application framework, PostgreSQL for database management, and .NET for backend development. React is used to create dynamic, component-based user interfaces, while Electron enables the building of cross-platform desktop apps with web technologies. PostgreSQL is a relational database system that offers extensibility and SQL compliance, and .NET supports backend services on Microsoft Windows.
+
+- 📸 *GitHub Repository Link:* https://github.com/JugheadStudio/Tradera.git
+
+![Tradera-Banner](https://github.com/user-attachments/assets/726dff86-6477-4acc-901d-47606d94dada)
+
+
+### 📱 **Brevio** 
+Brevio is a mobile app built with React Native and Expo, leveraging AI to provide insights from large documents and related images with text. It enables users to quickly scan documents and receive a brief summary, helping them determine document relevance without spending hours reading. The app uses Google Vision for image recognition and text extraction, and OpenAI to summarize the extracted text. The project is built with various tools including Firebase for data management and authentication, Axios for API requests, and React Navigation for in-app navigation. Custom services include image upload, authentication, and user management.
+
+- 📸 *GitHub Repository Link:* https://github.com/EmilioCarreiraOWI/DV300_Term-4_Project.git
+  
+![Brevio-Banner](https://github.com/user-attachments/assets/48494291-893a-4713-93c9-0dc6458e5ad2)
 
 ---
 
