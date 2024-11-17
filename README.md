@@ -49,13 +49,6 @@ Brevio is a mobile app built with React Native and Expo, leveraging AI to provid
 
 ---
 
-## 🛠️ What I’m Working On  
-- 🌳 **Nature Nook** feature for *My Destination*  
-- 📱 Exploring **iOS application development**  
-- 🖌️ Enhancing **UX for interactive web applications**  
-
----
-
 ## 🎯 Goals  
 🚀 Gain expertise in **iOS development**  
 💼 Start freelancing to combine my passions for **coding** and **travel**  
