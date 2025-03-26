@@ -76,7 +76,7 @@ Brevio is a mobile app built with React Native and Expo, leveraging AI to provid
 ---
 
 ## 📫 Get in Touch  
-- 📧 Email: [221350@virtualwindow.co.za]  
+- 📧 Email: [emiliocreates@gmail.com]  
 - 🎮 Discord: [Emilio Carreira 221350]   
 
 ---
