@@ -8,7 +8,7 @@
 # 👋 Hi there, I'm **Emilio Carreira**!  
 🎨 **Creative Web Developer** | 🤖 **AI Enthusiast** | 🌍 **Future Digital Nomad**
 
-I’m a **third-year student** at **Open Window**, specialising in **Website Development** and **User Experience**. Passionate about solving real-world problems and exploring cutting-edge technologies, my goal is to create meaningful digital experiences that inspire and empower.
+I’m a **fourth-year student** at **Open Window**, specialising in **Website Development** and **User Experience**. Passionate about solving real-world problems and exploring cutting-edge technologies, my goal is to create meaningful digital experiences that inspire and empower.
 
 ---
 
@@ -57,7 +57,7 @@ Brevio is a mobile app built with React Native and Expo, leveraging AI to provid
 ---
 
 ## 📚 Coursework & Education  
-- 🎓 **Third-year student at Open Window**  
+- 🎓 **Fourth-year student at Open Window**  
 - 📘 Specialising in **Website Development** and **User Experience**  
 - 🖥️ **Key Projects & Technologies**:  
   - *NatureNook*: Frontend with **Angular**, backend with **Express**, database managed by **PostgreSQL**, and secure authentication via **Twilio**  
