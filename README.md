@@ -8,7 +8,7 @@
 # 👋 Hi there, I'm **Emilio Carreira**!  
 🎨 **Creative Web Developer** | 🤖 **AI Enthusiast** | 🌍 **Future Digital Nomad**
 
-I’m a **fourth-year student** at **Open Window**, specialising in **Website Development** and **User Experience**. Passionate about solving real-world problems and exploring cutting-edge technologies, my goal is to create meaningful digital experiences that inspire and empower.
+I graduated from Open Window with a specialisation in Website Development and User Experience. Driven by a passion for solving real-world problems and exploring emerging technologies, I strive to design meaningful digital experiences that inspire and empower.
 
 ---
 
